@@ -1,0 +1,30 @@
+<svg width="540" height="640" viewBox="0 0 540 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Honorary portrait illustration for Dr. Hani Alhababi</title>
+  <desc id="desc">Stylized profile illustration with Kuwaiti-inspired palette</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2d74ff"/>
+      <stop offset="100%" stop-color="#6aa0ff"/>
+    </linearGradient>
+    <linearGradient id="highlight" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff9f4"/>
+      <stop offset="100%" stop-color="#f0ece8"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="640" rx="32" fill="url(#bg)"/>
+  <g transform="translate(40 60)">
+    <rect width="460" height="520" rx="28" fill="#fff" opacity=".18"/>
+    <rect width="440" height="500" rx="28" x="10" y="10" fill="#ffffff" opacity=".35"/>
+  </g>
+  <g transform="translate(160 140)">
+    <circle cx="110" cy="120" r="110" fill="url(#highlight)" stroke="#d2c5b4" stroke-width="4"/>
+    <path d="M40 226c32-36 148-36 180 0v72H40z" fill="#d2c5b4" opacity=".65"/>
+    <path d="M60 210c24-26 112-26 136 0v88H60z" fill="#f9f4ef"/>
+    <path d="M94 120c0-32 18-58 40-58s40 26 40 58-18 58-40 58-40-26-40-58z" fill="#e2d6c8"/>
+    <path d="M70 120c0-48 28-78 64-78s64 30 64 78c-40 10-88 10-128 0z" fill="#2f2f2f"/>
+    <path d="M88 120c0-28 20-50 46-50s46 22 46 50v10c-30 6-62 6-92 0z" fill="#4b4b4b"/>
+  </g>
+  <text x="270" y="520" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#ffffff">
+    Dr. Hani Alhababi
+  </text>
+</svg>
